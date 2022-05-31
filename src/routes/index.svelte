@@ -1,6 +1,6 @@
 <script>
   import auth from '$lib/services/auth'
-  import { isAuthenticated, user } from '$lib/stores/auth'
+  import { isAuthenticated,user } from '$lib/stores/auth'
   import { onMount } from 'svelte'
 
   let auth0Client
@@ -33,7 +33,7 @@
   {:else}
     <img
       src="https://source.unsplash.com/random/400x300"
-      alt="Random Photo"
+      alt="Random from unsplash"
     />
   {/if}
   <button on:click={logout}>Logout</button>

@@ -9,9 +9,8 @@
     "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
   },
   "devDependencies": {
-    "@auth0/auth0-spa-js": "1.21.1",
-    "@sveltejs/adapter-static": "1.0.0-next.31",
-    "@sveltejs/adapter-vercel": "1.0.0-next.53",
+    "@auth0/auth0-spa-js": "1.22.0",
+    "@sveltejs/adapter-vercel": "1.0.0-next.58",
     "@sveltejs/kit": "next",
     "prettier": "2.6.2",
     "prettier-plugin-svelte": "2.7.0",
