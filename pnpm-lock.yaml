@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@auth0/auth0-spa-js': 1.22.0
+  '@auth0/auth0-spa-js': 1.22.1
   '@sveltejs/adapter-vercel': 1.0.0-next.58
   '@sveltejs/kit': next
   prettier: 2.7.0
@@ -9,7 +9,7 @@ specifiers:
   svelte: 3.48.0
 
 devDependencies:
-  '@auth0/auth0-spa-js': 1.22.0
+  '@auth0/auth0-spa-js': 1.22.1
   '@sveltejs/adapter-vercel': 1.0.0-next.58
   '@sveltejs/kit': 1.0.0-next.350_svelte@3.48.0
   prettier: 2.7.0
@@ -18,8 +18,8 @@ devDependencies:
 
 packages:
 
-  /@auth0/auth0-spa-js/1.22.0:
-    resolution: {integrity: sha512-y4/vd7dhAwD3ueYAZhuo06muv/scxq+lHnI2lsT5h/3gSLOOXjDE2rjVmMexeYw4t02oXwHpjphYPfL9hgUsuA==}
+  /@auth0/auth0-spa-js/1.22.1:
+    resolution: {integrity: sha512-l0FCmiN3XubpgCtB3U0ds4h+5WQNTnIF4eLT/fudHEtcyrT65QF/03LybGVdLyuvqdIF/D6OQsfjwYw0Ms605Q==}
     dependencies:
       abortcontroller-polyfill: 1.7.3
       browser-tabs-lock: 1.2.15
