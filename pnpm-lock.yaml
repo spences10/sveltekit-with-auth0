@@ -7,16 +7,16 @@ specifiers:
   prettier: 2.7.1
   prettier-plugin-svelte: 2.7.1
   svelte: 3.50.1
-  vite: 3.1.3
+  vite: 3.1.4
 
 devDependencies:
   '@auth0/auth0-spa-js': 1.22.4
   '@sveltejs/adapter-vercel': 1.0.0-next.77
-  '@sveltejs/kit': 1.0.0-next.503_svelte@3.50.1+vite@3.1.3
+  '@sveltejs/kit': 1.0.0-next.506_svelte@3.50.1+vite@3.1.4
   prettier: 2.7.1
   prettier-plugin-svelte: 2.7.1_nk6d2fkgcllkkdynqbuearcure
   svelte: 3.50.1
-  vite: 3.1.3
+  vite: 3.1.4
 
 packages:
 
@@ -90,8 +90,8 @@ packages:
       - supports-color
     dev: true
 
-  /@sveltejs/kit/1.0.0-next.503_svelte@3.50.1+vite@3.1.3:
-    resolution: {integrity: sha512-QSEHe40qMOYjXirxS57dIa9NU4FntlYh+KYslBzasjMCfSiUkHGaWMJRz8uU+R4BWnThD9SdCo7F/NwDxu5LRQ==}
+  /@sveltejs/kit/1.0.0-next.506_svelte@3.50.1+vite@3.1.4:
+    resolution: {integrity: sha512-OF5CVzXeLvqJGZz18CzscSkacTXYWdUPAGuvyiCApndowUzUX/x9jwuMbh6xfmUC4wVbC139rFwoMHQK6QZmzw==}
     engines: {node: '>=16.14'}
     hasBin: true
     requiresBuild: true
@@ -99,7 +99,7 @@ packages:
       svelte: ^3.44.0
       vite: ^3.1.0
     dependencies:
-      '@sveltejs/vite-plugin-svelte': 1.0.8_svelte@3.50.1+vite@3.1.3
+      '@sveltejs/vite-plugin-svelte': 1.0.8_svelte@3.50.1+vite@3.1.4
       '@types/cookie': 0.5.1
       cookie: 0.5.0
       devalue: 3.1.3
@@ -113,13 +113,13 @@ packages:
       svelte: 3.50.1
       tiny-glob: 0.2.9
       undici: 5.10.0
-      vite: 3.1.3
+      vite: 3.1.4
     transitivePeerDependencies:
       - diff-match-patch
       - supports-color
     dev: true
 
-  /@sveltejs/vite-plugin-svelte/1.0.8_svelte@3.50.1+vite@3.1.3:
+  /@sveltejs/vite-plugin-svelte/1.0.8_svelte@3.50.1+vite@3.1.4:
     resolution: {integrity: sha512-1xkVTB4pm6zuign858FzVYE9Fdw9MQBOlxrdd85STV0NvTDmcofcRpcrK+zcIyT8SZ2dseHLu8hvDwzssF6RfA==}
     engines: {node: ^14.18.0 || >= 16}
     peerDependencies:
@@ -137,7 +137,7 @@ packages:
       magic-string: 0.26.4
       svelte: 3.50.1
       svelte-hmr: 0.15.0_svelte@3.50.1
-      vite: 3.1.3
+      vite: 3.1.4
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -1053,8 +1053,8 @@ packages:
     resolution: {integrity: sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==}
     dev: true
 
-  /vite/3.1.3:
-    resolution: {integrity: sha512-/3XWiktaopByM5bd8dqvHxRt5EEgRikevnnrpND0gRfNkrMrPaGGexhtLCzv15RcCMtV2CLw+BPas8YFeSG0KA==}
+  /vite/3.1.4:
+    resolution: {integrity: sha512-JoQI08aBjY9lycL7jcEq4p9o1xUjq5aRvdH4KWaXtkSx7e7RpAh9D3IjzDWRD4Fg44LS3oDAIOG/Kq1L+82psA==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
