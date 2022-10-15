@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@auth0/auth0-spa-js': 1.22.4
+  '@auth0/auth0-spa-js': 1.22.5
   '@sveltejs/adapter-vercel': 1.0.0-next.79
   '@sveltejs/kit': next
   prettier: 2.7.1
@@ -10,9 +10,9 @@ specifiers:
   vite: 3.1.7
 
 devDependencies:
-  '@auth0/auth0-spa-js': 1.22.4
+  '@auth0/auth0-spa-js': 1.22.5
   '@sveltejs/adapter-vercel': 1.0.0-next.79
-  '@sveltejs/kit': 1.0.0-next.515_svelte@3.50.1+vite@3.1.7
+  '@sveltejs/kit': 1.0.0-next.516_svelte@3.50.1+vite@3.1.7
   prettier: 2.7.1
   prettier-plugin-svelte: 2.8.0_nk6d2fkgcllkkdynqbuearcure
   svelte: 3.50.1
@@ -20,8 +20,8 @@ devDependencies:
 
 packages:
 
-  /@auth0/auth0-spa-js/1.22.4:
-    resolution: {integrity: sha512-iOboSV+aUsExV1onKvGKEqi626sjJt+61c3EvA4mkn9RM7RV9RMjPI+cInNFHWjwAd2Sdi3LqBj6/MfcHh69dg==}
+  /@auth0/auth0-spa-js/1.22.5:
+    resolution: {integrity: sha512-6gaQcd+Eb8ZBcdQkrrm9undM7dY/rPvVdQN8s7rxxrviUCs7OopEygsfSkHf67IP4HtlCiE8dSW5/AipRUOw/A==}
     dependencies:
       abortcontroller-polyfill: 1.7.3
       browser-tabs-lock: 1.2.15
@@ -90,8 +90,8 @@ packages:
       - supports-color
     dev: true
 
-  /@sveltejs/kit/1.0.0-next.515_svelte@3.50.1+vite@3.1.7:
-    resolution: {integrity: sha512-Ck+T16bci7VWc4CNP61xvfMrbDHX1Q8aPZWgthnrSH8hsdx9w1MP80D9V4A98WX0cyhCQ02JzlTmxgf2UpYRbQ==}
+  /@sveltejs/kit/1.0.0-next.516_svelte@3.50.1+vite@3.1.7:
+    resolution: {integrity: sha512-n0oGcv7xpgJ81ld1oER5HVREP4TdeDUJ8S64XNDcl3Y2xfQLKk8C4SLYQw2D6V+DxUm8V3aRrj7N7/tm4CQm6A==}
     engines: {node: '>=16.14'}
     hasBin: true
     requiresBuild: true
