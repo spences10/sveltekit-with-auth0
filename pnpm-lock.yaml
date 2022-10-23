@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@auth0/auth0-spa-js': 1.22.5
-  '@sveltejs/adapter-vercel': 1.0.0-next.79
+  '@sveltejs/adapter-vercel': 1.0.0-next.80
   '@sveltejs/kit': next
   prettier: 2.7.1
   prettier-plugin-svelte: 2.8.0
@@ -11,8 +11,8 @@ specifiers:
 
 devDependencies:
   '@auth0/auth0-spa-js': 1.22.5
-  '@sveltejs/adapter-vercel': 1.0.0-next.79
-  '@sveltejs/kit': 1.0.0-next.516_svelte@3.52.0+vite@3.1.8
+  '@sveltejs/adapter-vercel': 1.0.0-next.80
+  '@sveltejs/kit': 1.0.0-next.522_svelte@3.52.0+vite@3.1.8
   prettier: 2.7.1
   prettier-plugin-svelte: 2.8.0_lrllcp5xtrkmmdzifit4hd52ze
   svelte: 3.52.0
@@ -80,8 +80,8 @@ packages:
       picomatch: 2.3.1
     dev: true
 
-  /@sveltejs/adapter-vercel/1.0.0-next.79:
-    resolution: {integrity: sha512-Mitw34vS+wR/qxZm6qOUltf910N8gcekYZHaEVxO6HaE/9LyEZ/O03e9rRKwo4LAWrHXOkHMdUxvv1VcS9BqmQ==}
+  /@sveltejs/adapter-vercel/1.0.0-next.80:
+    resolution: {integrity: sha512-a1ibKgN5RsNw6HPzhNKrPuEndgYRXCYlGIioVzfKpt/tEr4RuV5o/bST2FBgjCIWCqajKhWg1QLZmN2DZfPy6Q==}
     dependencies:
       '@vercel/nft': 0.22.1
       esbuild: 0.15.9
@@ -90,8 +90,8 @@ packages:
       - supports-color
     dev: true
 
-  /@sveltejs/kit/1.0.0-next.516_svelte@3.52.0+vite@3.1.8:
-    resolution: {integrity: sha512-n0oGcv7xpgJ81ld1oER5HVREP4TdeDUJ8S64XNDcl3Y2xfQLKk8C4SLYQw2D6V+DxUm8V3aRrj7N7/tm4CQm6A==}
+  /@sveltejs/kit/1.0.0-next.522_svelte@3.52.0+vite@3.1.8:
+    resolution: {integrity: sha512-dVVrRPbXlAut4vg8kbCeZOjUZnYB7ZvDKp/yAx8InpDF0P1bvUDlc++DXFeMBdXX8bakTA3NGonWnDjqslCsZw==}
     engines: {node: '>=16.14'}
     hasBin: true
     requiresBuild: true
