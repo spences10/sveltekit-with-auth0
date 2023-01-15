@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@auth0/auth0-spa-js": "1.22.6",
-    "@sveltejs/adapter-vercel": "1.0.1",
+    "@sveltejs/adapter-vercel": "1.0.4",
     "@sveltejs/kit": "next",
     "prettier": "2.8.2",
     "prettier-plugin-svelte": "2.9.0",
