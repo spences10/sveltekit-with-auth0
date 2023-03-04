@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@auth0/auth0-spa-js': 1.22.6
-  '@sveltejs/adapter-vercel': 2.2.1
+  '@sveltejs/adapter-vercel': 2.3.0
   '@sveltejs/kit': ^1.5.0
   prettier: 2.8.4
   prettier-plugin-svelte: 2.9.0
@@ -11,7 +11,7 @@ specifiers:
 
 devDependencies:
   '@auth0/auth0-spa-js': 1.22.6
-  '@sveltejs/adapter-vercel': 2.2.1_@sveltejs+kit@1.5.0
+  '@sveltejs/adapter-vercel': 2.3.0_@sveltejs+kit@1.5.0
   '@sveltejs/kit': 1.5.0_svelte@3.55.1+vite@4.1.4
   prettier: 2.8.4
   prettier-plugin-svelte: 2.9.0_jrsxveqmsx2uadbqiuq74wlc4u
@@ -256,8 +256,8 @@ packages:
     resolution: {integrity: sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==}
     dev: true
 
-  /@sveltejs/adapter-vercel/2.2.1_@sveltejs+kit@1.5.0:
-    resolution: {integrity: sha512-W8+qytNSvFTr56CC4RLC/PeSuzB8m/LnnZlZD3v23qlgRrHHcYyN5mZJHaZmQvQeqsue7rby+LKfqqZiElstlg==}
+  /@sveltejs/adapter-vercel/2.3.0_@sveltejs+kit@1.5.0:
+    resolution: {integrity: sha512-LvSO/jO0rO2tFGNZhNtgzNniMobZmTXho83PouDgjKS3hW9CvIsn80RlRwT/Ay5Tag+kCHb0jViFuWktR9/OVw==}
     peerDependencies:
       '@sveltejs/kit': ^1.5.0
     dependencies:
