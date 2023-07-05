@@ -12,7 +12,7 @@
     "@auth0/auth0-spa-js": "1.22.6",
     "@sveltejs/adapter-vercel": "3.0.1",
     "@sveltejs/kit": "^1.5.0",
-    "prettier": "2.8.8",
+    "prettier": "3.0.0",
     "prettier-plugin-svelte": "2.10.1",
     "svelte": "4.0.4",
     "vite": "4.3.9"
