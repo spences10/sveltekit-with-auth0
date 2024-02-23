@@ -15,11 +15,11 @@ devDependencies:
     specifier: ^2.0.0
     version: 2.0.0(@sveltejs/vite-plugin-svelte@3.0.1)(svelte@4.2.10)(vite@5.0.12)
   prettier:
-    specifier: 3.2.4
-    version: 3.2.4
+    specifier: 3.2.5
+    version: 3.2.5
   prettier-plugin-svelte:
     specifier: 3.2.1
-    version: 3.2.1(prettier@3.2.4)(svelte@4.2.10)
+    version: 3.2.1(prettier@3.2.5)(svelte@4.2.10)
   svelte:
     specifier: 4.2.10
     version: 4.2.10
@@ -1241,18 +1241,18 @@ packages:
       source-map-js: 1.0.2
     dev: true
 
-  /prettier-plugin-svelte@3.2.1(prettier@3.2.4)(svelte@4.2.10):
+  /prettier-plugin-svelte@3.2.1(prettier@3.2.5)(svelte@4.2.10):
     resolution: {integrity: sha512-ENAPbIxASf2R79IZwgkG5sBdeNA9kLRlXVvKKmTXh79zWTy0KKoT86XO2pHrTitUPINd+iXWy12MRmgzKGVckA==}
     peerDependencies:
       prettier: ^3.0.0
       svelte: ^3.2.0 || ^4.0.0-next.0 || ^5.0.0-next.0
     dependencies:
-      prettier: 3.2.4
+      prettier: 3.2.5
       svelte: 4.2.10
     dev: true
 
-  /prettier@3.2.4:
-    resolution: {integrity: sha512-FWu1oLHKCrtpO1ypU6J0SbK2d9Ckwysq6bHj/uaCP26DxrPpppCLQRGVuqAxSTvhF00AcvDRyYrLNW7ocBhFFQ==}
+  /prettier@3.2.5:
+    resolution: {integrity: sha512-3/GWa9aOC0YeD7LUfvOG2NiDyhOWRvt1k+rcKhOuYnMY24iiCphgneUfJDyFXd6rZCAnuLBv6UeAULtrhT/F4A==}
     engines: {node: '>=14'}
     hasBin: true
     dev: true
